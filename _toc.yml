@@ -1,0 +1,16 @@
+- file: intro
+- file: content/M00_intro_udea
+- file: content/M01_videos
+  sections:
+    - file: "content/LAB 01.01 - PRACTICE SUBMISSION"
+    - file: "content/LAB 01.02 - METRICS"
+- file: content/M02_videos
+  sections:
+    - file: "content/NOTES 02.01 - PYTHON BASIC STRUCTURES"
+    - file: "content/NOTES 02.02 - MORE PYTHON"
+    - file: "content/NOTES 02.03 - PYTHON NUMPY"
+    - file: "content/NOTES 02.04 - PANDAS"
+    - file: "content/LAB 02.01 - PYTHON"
+    - file: "content/LAB 02.02 - NUMPY"
+    - file: "content/LAB 02.03 - PANDAS"
+    - file: "content/LAB 02.04 - CARD TRICK"
